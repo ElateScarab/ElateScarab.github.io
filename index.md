@@ -1,4 +1,4 @@
-## **About Me: (this is where my professional assessment will go)**
+# **About Me: (this is where my professional assessment will go)**
 Welcome to my ePortfolio! My name is Thor Nielssen, and I have been enrolled at SNHU since August 2021.
 This ePortfolio serves as my final project for the course.
 
