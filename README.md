@@ -1,2 +1,2 @@
-# **ElateScarab.github.io: Thor's ePortfolio**
+# **ElateScarab.github.io: My ePortfolio**
 
