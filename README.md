@@ -8,3 +8,9 @@ On my GitHub pages site (ElateScarab.github.io) you will find the following item
 4. Enhancements 1-3, their respective narratives, and a link to the artifact
 
 Please note that all three of my enhancements were based on the same artifact, so rather than upload the different incomplete iterations of the artifact, I am only including the final, polished product.
+
+### **Instructions for running my final project:**
+Note: This project requires Python 3.1X to be installed.
+1. Download the Final Artifact .zip file
+2. Open the Animal Shelter Project in VS Code and select the Driver.py class
+3. From the VS Code ribbon, select Run -> Run without debugging -> Default python configuration
