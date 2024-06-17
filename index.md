@@ -1,2 +1,3 @@
 ## **About Me:**
-    Welcome to my ePortfolio! I have been enrolled at SNHU since August 2021, and this ePortfolio serves as my final project for the course.
+    Welcome to my ePortfolio! My name is Thor NielssenI have been enrolled at SNHU since August 2021.
+    This ePortfolio serves as my final project for the course.
