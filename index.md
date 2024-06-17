@@ -10,7 +10,7 @@ Please note that one of these artifacts, an API, did not make it into my final p
 I instead added another enhancement category to my IT145 artifact.
 
 ## **My original artifact for enhancement:**
-This artifact came from IT145, where it was originally written in Java and centered around basic array lists used to manage a rescue animal system. My enhancements for each category were applied to this artifact, to the point that the final product is nearly unrecognizable from the original.
+This artifact came from IT145 (Foundation in Application Development), where it was originally written in Java and centered around basic array lists used to manage a rescue animal system. My enhancements for each category were applied to this artifact, to the point that the final product is nearly unrecognizable from the original. I selected this artifact because it represents my earliest work, and my enhancements show just how much I have learned at SNHU and how far I have come.
 
 ## **Enhancement 1: Software Engineering and Design**
 
