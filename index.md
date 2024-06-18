@@ -25,18 +25,18 @@ Please note that one of these artifacts, an API, did not make it into my final p
 I instead added another enhancement category to my IT145 artifact.
 
 ## **My original artifact for enhancement:**
-[Original Artifact Folder](https://github.com/ElateScarab/ElateScarab.github.io/tree/c1516d5f3db2a85e73c74df677ff26e5422fff66/Original%20Artifact)
+[Original Artifact Folder](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Original%20Artifact)
 
 This artifact came from IT145 (Foundation in Application Development), where it was originally written in Java and centered around basic array lists used to manage a rescue animal system. My enhancements for each category were applied to this artifact, to the point that the final product is nearly unrecognizable from the original. I selected this artifact because it represents my earliest work, and my enhancements show just how much I have learned at SNHU and how far I have come.
 
 # **My final product:**
-[Final Artifact Folder](https://github.com/ElateScarab/ElateScarab.github.io/tree/c1516d5f3db2a85e73c74df677ff26e5422fff66/Final%20Artifact/Final%20Artifact)
+[Final Artifact Folder](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Final%20Artifact/Final%20Artifact)
 
 ## **Link to the original narratives:**
-[Enhancement Narratives](https://github.com/ElateScarab/ElateScarab.github.io/tree/abde04be5f6c5c243b07e4cc88c2bbc22abfb4cf/Narratives)
+[Enhancement Narratives](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Narratives)
 
 ## **Enhancement 1: Software Engineering and Design**
-[Enhancement 1](https://github.com/ElateScarab/ElateScarab.github.io/tree/a30736548245e46ba6c803374df2e69add698b22/Enhancement%201)
+[Enhancement 1](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Enhancement%201)
 
 ### About this enhancement:
 My first artifact for enhancement is the Animal Shelter project from IT145, which was written in Java. The program runs in a console window with a menu that allows a user to view and edit a list of rescue animals, which consists of dogs and monkeys. This project was created over two years ago in April 2022.
@@ -54,7 +54,7 @@ The biggest thing that I learned during this creation and improvement process is
 One of the biggest challenges in this enhancement was ensuring that the menu logic worked – it took several iterations and a couple of sessions with SNHU tutoring services to completely grasp class inheritance in Python, for example, making the subclass options visible to the parent and driver class by using “super().” in front of the object attributes. Another challenge that took time to overcome was initializing everything with Python’s “init” statements in the class constructors as well as the main menu code. I feel that these challenges were overcome, and through a lot of design and trial and error, this enhancement fulfills at least the two original outcomes I had planned for it, if not also the collaboration-focused outcome for the reasons detailed in the previous section.
     
 ## **Enhancement 2: Data Structures and Algorithms**
-[Final Project w/Algorithm Implementation](https://github.com/ElateScarab/ElateScarab.github.io/tree/abde04be5f6c5c243b07e4cc88c2bbc22abfb4cf/Final%20Artifact/Final%20Artifact)
+[Final Project w/Algorithm Implementation](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Final%20Artifact/Final%20Artifact)
 
 ### About this enhancement:
 Once again, this is my Rescue Animal (Shelter) project from IT145. The original artifact was created in 2022 but has already been enhanced by the first and third enhancement categories. Re-done in from Java into Python and having a full database and relevant functions added to it, this project now includes algorithms used to search, sort, and manage the data and data structures in the program.
@@ -74,7 +74,7 @@ I do not have any updates to my outcome coverage since this algorithm implementa
 This enhancement was the hardest one yet, more so than translating from one language to another. My biggest challenge was learning and understanding how to implement the algorithm required to automatically update the animal’s training status based on intake time and date, as it required learning how to use the datetime libraries in Python and run calculations accordingly. However, I learned that moving a program’s data from in-memory arrays to a permanent database does not always solve an issue completely – understanding how a database operates and ensuring that you have the correct algorithms and functions implemented to use it is very important.
 
 ## **Enhancement 3: Databases**
-[Database Enhancement](https://github.com/ElateScarab/ElateScarab.github.io/tree/abde04be5f6c5c243b07e4cc88c2bbc22abfb4cf/Enhancement%202)
+[Database Enhancement](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Enhancement%202)
 
 ### About this enhancement:
 This artifact is my Rescue Animal final project from IT145. The project was originally done in early 2022, but it was also my first enhancement for this capstone course, when I redesigned and rebuilt it from its original Java code into Python. The Rescue Animal project used Java and array lists to store lists of monkeys and dogs to be reserved as service animals, allowing a user to input new animals as well as view the existing animal lists and reserve them based on input criteria.
