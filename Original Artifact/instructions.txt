@@ -1,1 +1,3 @@
-
+To run this program, download and unzip Grazioso.zip.
+Open Grazioso -> src -> Driver class
+Click Run or Debug from the Visual Studio ribbon. Note that a recent Java release is required.
