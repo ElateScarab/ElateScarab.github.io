@@ -1,5 +1,7 @@
 # **ElateScarab.github.io: My ePortfolio**
 
+### **My GitHub Pages site URL is below, or the Portfolio index.md can be opened directly from this repository.**
+
 On my GitHub pages site (ElateScarab.github.io) you will find the following items, in order:
 
 1. Professional Self-Assessment
