@@ -29,7 +29,8 @@ I instead added another enhancement category to my IT145 artifact.
 
 This artifact came from IT145 (Foundation in Application Development), where it was originally written in Java and centered around basic array lists used to manage a rescue animal system. My enhancements for each category were applied to this artifact, to the point that the final product is nearly unrecognizable from the original. I selected this artifact because it represents my earliest work, and my enhancements show just how much I have learned at SNHU and how far I have come.
 
-### **This is a sample of my original project code:**
+### **This is a sample of my original project code in Java.**
+This code, while functional, was lacking some more advanced features that were better suited to a Python program.
 ![Original Code Sample](https://github.com/ElateScarab/ElateScarab.github.io/blob/73f5b6ba98afa830a96fd7d24c524a5c20131920/Original%20Code%20Sample.png)
 
 # **My final product:**
