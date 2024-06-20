@@ -1,5 +1,5 @@
 # **Welcome to my ePortfolio.**
-##  **Please find below my professional self-assessment, followed by my artifacts and coursework for CS499.**
+##  **Below you will find my professional self-assessment, followed by my artifacts and coursework for CS499.**
 
 Throughout my coursework at SNHU, I have struggled, stumbled, and fallen short of my goals a few times – however, I have always gotten back up, worked with my instructors, advisors, and tutors, and persevered to complete a finished product that is worth showing off in my portfolio. My artifact selection from IT145 enabled me to truly demonstrate how far I have come as a computer science student, showcasing my earliest work in contrast with how much I have learned since. 
 
@@ -81,7 +81,7 @@ I do not have any updates to my outcome coverage since this algorithm implementa
 This enhancement was the hardest one yet, more so than translating from one language to another. My biggest challenge was learning and understanding how to implement the algorithm required to automatically update the animal’s training status based on intake time and date, as it required learning how to use the datetime libraries in Python and run calculations accordingly. However, I learned that moving a program’s data from in-memory arrays to a permanent database does not always solve an issue completely – understanding how a database operates and ensuring that you have the correct algorithms and functions implemented to use it is very important.
 
 ### **Here's a look at the new sorting algorithm:**
-![Training Algorithm](https://github.com/ElateScarab/ElateScarab.github.io/blob/5196c9e89ca7b24f83cbfd8113e9f1c815c49ad1/Training%20Algorithm.png)
+![Training Algorithm](https://github.com/ElateScarab/ElateScarab.github.io/blob/6e86e6c29cbb673f45732580bb2a7eee50ca2239/Training%20Algorithms.png)
 
 ## **Enhancement 3: Databases**
 [Database Enhancement](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Enhancement%202)
