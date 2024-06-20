@@ -55,6 +55,9 @@ I do not have any updates to my outcome coverage plans yet, although I would arg
 The biggest thing that I learned during this creation and improvement process is that I am better at programming and code design than I thought I was. I spent the first four or five days of working on this project in the design stage alone, re-learning a lot of Python and trying to understand the Python alternatives to all the tools and syntax in the Java code. In this process, I learned that Python contains enough built-in functions and libraries that I did not need any of the libraries that were being imported into the Java program. I also learned that when translating from one language to another, there is no way to copy-paste or directly translate these programs, necessitating a full redesign and rebuild. 
     
 One of the biggest challenges in this enhancement was ensuring that the menu logic worked – it took several iterations and a couple of sessions with SNHU tutoring services to completely grasp class inheritance in Python, for example, making the subclass options visible to the parent and driver class by using “super().” in front of the object attributes. Another challenge that took time to overcome was initializing everything with Python’s “init” statements in the class constructors as well as the main menu code. I feel that these challenges were overcome, and through a lot of design and trial and error, this enhancement fulfills at least the two original outcomes I had planned for it, if not also the collaboration-focused outcome for the reasons detailed in the previous section.
+
+### **Here's how the new Python menu looks:**
+![Menu Sample](https://github.com/ElateScarab/ElateScarab.github.io/blob/5196c9e89ca7b24f83cbfd8113e9f1c815c49ad1/Menu%20Sample.png)
     
 ## **Enhancement 2: Data Structures and Algorithms**
 [Final Project w/Algorithm Implementation](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Final%20Artifact/Final%20Artifact)
@@ -76,6 +79,9 @@ I do not have any updates to my outcome coverage since this algorithm implementa
 
 This enhancement was the hardest one yet, more so than translating from one language to another. My biggest challenge was learning and understanding how to implement the algorithm required to automatically update the animal’s training status based on intake time and date, as it required learning how to use the datetime libraries in Python and run calculations accordingly. However, I learned that moving a program’s data from in-memory arrays to a permanent database does not always solve an issue completely – understanding how a database operates and ensuring that you have the correct algorithms and functions implemented to use it is very important.
 
+### **Here's a look at the new sorting algorithm:**
+![Training Algorithm](https://github.com/ElateScarab/ElateScarab.github.io/blob/5196c9e89ca7b24f83cbfd8113e9f1c815c49ad1/Training%20Algorithm.png)
+
 ## **Enhancement 3: Databases**
 [Database Enhancement](https://github.com/ElateScarab/ElateScarab.github.io/tree/d6bfdd0c86c02a3bda8d68ab11eab6ab682b5ff8/Enhancement%202)
 
@@ -95,3 +101,6 @@ I selected this item because it exemplifies some of my earliest programming work
 I feel that this enhancement went a step beyond what I expected when I originally planned it and adequately meets the course outcomes I originally selected. The enhancement demonstrates effective software design choices in selecting a SQL technology to use, and properly addresses the databases requirement by creating a new database and all necessary methods and handlers to manipulate said database with SQL statements built into the Python code. I have no updates to my outcome coverage plans at this time since I feel that this enhancement came out better than I had hoped for.
 
 When I started this project, I intended to use MySQL to implement the database requirements and I struggled for quite a while trying to make that work. It was only while troubleshooting why MySQL wasn’t working that I realized that Python’s native SQL handler, SQLite, was better suited for this sort of local database implementation. My biggest challenge was not creating the database, because SQLite’s documentation was clear on the basic statements required to create a database and the tables within it. Rather, the difficulty came in finding a way to get rid of the original array lists and related syntax and replace them with SQL operators and syntax to fulfill the same purpose, but better. This took long hours of research for such a short and concise program, but the end product demonstrates that I persevered and finally arrived at a well-designed and functional solution.
+
+### **Here's an example of the new database operators:**
+![SQL DB sample](https://github.com/ElateScarab/ElateScarab.github.io/blob/5196c9e89ca7b24f83cbfd8113e9f1c815c49ad1/SQL%20DB%20sample.png)
