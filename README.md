@@ -1,5 +1,5 @@
 # **Welcome to my ePortfolio.**
-##  **Please find below my professional self-assessment, followed by my artifacts and coursework for CS499.**
+##  **Below you will find my professional self-assessment, followed by my artifacts and coursework for CS499.**
 
 Throughout my coursework at SNHU, I have struggled, stumbled, and fallen short of my goals a few times – however, I have always gotten back up, worked with my instructors, advisors, and tutors, and persevered to complete a finished product that is worth showing off in my portfolio. My artifact selection from IT145 enabled me to truly demonstrate how far I have come as a computer science student, showcasing my earliest work in contrast with how much I have learned since. 
 
